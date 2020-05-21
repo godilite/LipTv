@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "862778438156",
+    "firebase_url": "https://south-41176.firebaseio.com",
+    "project_id": "south-41176",
+    "storage_bucket": "south-41176.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862778438156:android:b4b76235e36a831b5c7429",
+        "android_client_info": {
+          "package_name": "com.liptv_com_ng.lipstudio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862778438156-cg60msr2qkccvtdtjntglupje6du4p8g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.liptv_com_ng.lipstudio",
+            "certificate_hash": "a2a87a2b7be4889c46c0bd1914fe8d6d5dc0cd95"
+          }
+        },
+        {
+          "client_id": "862778438156-rf41bohut4cemr2er2rnqcoqacl5ddfp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvkAaLrb57GAb0PLmhIFKd2KGbbwkWowk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862778438156-103ps4cnnrkcm7bc5f9ql2mtsk3724cn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
